@@ -1,4 +1,3 @@
-```markdown
 # Project-1_Assignment
 
 **Name:** Ikenna Onugha
@@ -60,7 +59,3 @@ Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/que
 ### 1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question4/parking_system.ino
 
 Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question4/README.md
-
-```
-
-```
