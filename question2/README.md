@@ -1,6 +1,8 @@
 Sample Output and Input:
 
 <img width="963" height="435" alt="image" src="https://github.com/user-attachments/assets/f5a9048d-c133-473f-a7e9-d9423bcb1c63" />
+<img width="589" height="361" alt="image" src="https://github.com/user-attachments/assets/3906f232-8cdc-4b15-b2d4-c7ffdb039a7d" />
+
 
 Explanation of Control Structures
 
