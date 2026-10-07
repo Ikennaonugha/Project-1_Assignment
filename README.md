@@ -2,7 +2,7 @@
 
 **Name:** Ikenna Onugha
 
-**GitHub Repository:** `[[INSERT YOUR PUBLIC GITHUB REPO URL]](https://github.com/Ikennaonugha/Project-1_Assignment/)`
+**GitHub Repository:** `(https://github.com/Ikennaonugha/Project-1_Assignment/)`
 
 **Date:** Oct 7, 2026
 
