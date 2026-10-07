@@ -36,10 +36,10 @@ Enter turbidity (in NTU): 12
 WATER QUALITY MONITORING REPORT   
 
 
-Temperature Deviation : 3.50 C
-Turbidity Penalty     : 6.00 NTU
-Calculated WQ Index   : 90.50
-Water Quality Status  : Good
+Temperature Deviation: 3.50 C
+Turbidity Penalty: 6.00 NTU
+Calculated WQ Index: 90.50
+Water Quality Status: Good
 
 ```
 
@@ -55,7 +55,7 @@ Water Quality Status  : Good
 ### b. Error Analysis
 
 * **Syntax Error Example:** Missing a terminating semicolon `;` at the end of a statement.
-* *Reasoning:* Syntax errors occur when code violates the grammar and structural rules of the C language.
+* *Reasoning:* Syntax errors occur when code violates the grammar and structural rules.
 
 
 * **Semantic Error Example:** Using integer division instead of floating-point division when variables are declared as integers.
@@ -65,21 +65,23 @@ Water Quality Status  : Good
 
 ### c. Compilation Lifecycle
 
-1. **Preprocessing (`.c` $\rightarrow$ `.i`):**
-* *Input:* Raw source code.
-* *Output:* Expanded source code with header files
+### C Compilation Lifecycle
+
+* **1. Preprocessing (`.c` → `.i`)**
+* **Input:** Raw source code (`question1.c`).
+* **Output:** Expanded source code with headers resolved and macros expanded.
 
 
-2. **Compilation (`.i` $\rightarrow$ `.s`):**
-* *Input:* Preprocessed source code (`question1.i`).
-* *Output:* Assembly language
+* **2. Compilation (`.i` → `.s`)**
+* **Input:** Preprocessed source code (`question1.i`).
+* **Output:** Assembly code (`question1.s`).
 
 
-3. **Assembly (`.s` $\rightarrow$ `.o` / `.obj`):**
-* *Input:* Assembly code (`question1.s`).
-* *Output:*Object file (`question1.o`).
+* **3. Assembly (`.s` → `.o` / `.obj`)**
+* **Input:** Assembly code (`question1.s`).
+* **Output:** Machine code object file (`question1.o`).
 
 
-4. **Linking (`.o` $\rightarrow$ Executable Binary):**
-* *Input:* Object file (`question1.o`) and standard C library binaries (e.g., standard input/output routines for `printf`/`scanf`).
-* *Output:* Executable binary file (`./question1`).
+* **4. Linking (`.o` → Executable Binary)**
+* **Input:** Object file (`question1.o`) and standard C library binaries.
+* **Output:** Executable binary file (`./question1`).
