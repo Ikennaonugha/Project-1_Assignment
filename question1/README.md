@@ -54,18 +54,14 @@ Water Quality Status: Good
 
 ### b. Error Analysis
 
-* **Syntax Error Example:** Missing a terminating semicolon `;` at the end of a statement.
-* *Reasoning:* Syntax errors occur when code violates the grammar and structural rules.
+* **Syntax Error Example:** Missing a terminating semicolon `;` at the end of a statement because syntax errors occur when code violates the grammar and structural rules.
 
 
-* **Semantic Error Example:** Using integer division instead of floating-point division when variables are declared as integers.
-* *Reasoning:* Semantic errors compile without errors but program produces inaccurate outputs.
+* **Semantic Error Example:** Using integer division instead of floating-point division when variables are declared as integers because semantic errors compile without errors but program produces inaccurate outputs.
 
 
 
 ### c. Compilation Lifecycle
-
-### C Compilation Lifecycle
 
 * **1. Preprocessing (`.c` → `.i`)**
 * **Input:** Raw source code (`question1.c`).
@@ -83,5 +79,5 @@ Water Quality Status: Good
 
 
 * **4. Linking (`.o` → Executable Binary)**
-* **Input:** Object file (`question1.o`) and standard C library binaries.
+* **Input:** Object file and standard C library binaries.
 * **Output:** Executable binary file (`./question1`).
