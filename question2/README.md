@@ -45,6 +45,7 @@ Exited.
 
 
 Explanation of Control Structures
+
 Conditionals (if-else / switch): The switch(choice) block routes execution based on user selection. Nested if conditions evaluate whether transaction conditions are met (e.g., verifying amount > balance).
 
 Loops (while): An infinite loop (while(1)) keeps the transaction terminal active, allowing continuous operations until menu option 5 is selected.
