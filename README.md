@@ -32,7 +32,7 @@ Project-1_Assignment/
 
 ## Question 1: Water-Quality Monitoring System
 
-### 1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question1/question1.c
+1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question1/question1.c
 
 Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question1/README.md
 
@@ -40,7 +40,7 @@ Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/que
 
 ## Question 2: Mobile-Money Transaction System
 
-### 1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question2/question2.c
+1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question2/question2.c
 
 Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question2/README.md
 
@@ -48,7 +48,7 @@ Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/que
 
 ## Question 3: Delivery Distance & Priority Analysis
 
-### 1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question3/question3.c
+1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question3/question3.c
 
 Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question3/README.md
 
@@ -56,6 +56,6 @@ Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/que
 
 ## Question 4: Smart Parking System Simulation
 
-### 1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question4/parking_system.ino
+1. Source Code: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question4/parking_system.ino
 
 Deliverables: https://github.com/Ikennaonugha/Project-1_Assignment/tree/main/question4/README.md
