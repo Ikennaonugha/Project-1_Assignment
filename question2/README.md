@@ -1,48 +1,6 @@
 Sample Output and Input:
 
-MOBILE MONEY TRANSACTION SYSTEM
-
-1. Deposit
-2. Withdraw
-3. Check Balance
-4. Transaction Summary
-5. Exit
-Enter choice: 1
-Enter deposit amount: 50000
-Deposit successful.
-Current balance: 50000 RWF
-
-MOBILE MONEY TRANSACTION SYSTEM
-
-1. Deposit
-2. Withdraw
-3. Check Balance
-4. Transaction Summary
-5. Exit
-Enter choice: 2
-Enter withdrawal amount: 70000
-Transaction rejected: Insufficient balance.
-
-MOBILE MONEY TRANSACTION SYSTEM
-
-1. Deposit
-2. Withdraw
-3. Check Balance
-4. Transaction Summary
-5. Exit
-Enter choice: 3
-Current balance: 50000 RWF
-
-MOBILE MONEY TRANSACTION SYSTEM
-
-1. Deposit
-2. Withdraw
-3. Check Balance
-4. Transaction Summary
-5. Exit
-Enter choice: 5
-Exited.
-
+<img width="963" height="435" alt="image" src="https://github.com/user-attachments/assets/f5a9048d-c133-473f-a7e9-d9423bcb1c63" />
 
 Explanation of Control Structures
 
